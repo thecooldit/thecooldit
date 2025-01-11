@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thecooldit
 - 👀 I’m interested in proggramming
-- 🌱 I’m currently learning Pythom
+- 🌱 I’m currently learning Python and C++
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me to gamedev??
 
